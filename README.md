@@ -12,7 +12,7 @@ A visually stunning and responsive layout design built with modern web technolog
 
 ## Preview
 
-Preview the website by visiting: [Preview](https://harshanandita.github.io/Multi-Color-Website/) 
+Preview the website by visiting: [Preview](https://harshanandita.github.io/Layout-Design/) 
 
 ---
 
